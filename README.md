@@ -19,6 +19,7 @@ Eine Portierung auf andere Betriebssysteme werde ich vornehmen, wenn ich sie akt
 * Im Gegensatz zu [WinCompose](https://github.com/samhocevar/wincompose), das ebenfalls einen größeren Zeichenumfang bietet, werden (fast) alle Zeichen in scyDE ganz „normal“ über <kbd>Alt Gr</kbd> in Kombination mit einer Buchstaben‐ oder Ziffertaste aufgerufen und nicht mit mehreren aufeinanderfolgenden Tastendrücken.
 * Einige Zeichen sind zusätzlich zu ihren normalen Positionen auch an „bequemeren“ Orten erreichbar. So finden sich beispielsweise die zum Programmieren wichtigen `{[]}` auch auf <kbd>Alt Gr</kbd>+`asdf`.
 * Die auf deutschen Tastaturen üblicherweise als [Tottasten](https://de.wikipedia.org/wiki/Tottaste) ausgeführten Zeichen ^, ` und ´ gibt es in scyDE zusätzlich in einer untoten(?) Variante. Die meist nicht tote Tilde (~) gibt es zusätzlich in tot.
+* Das Dezimaltrennzeichen auf dem Ziffernblock ist der Punkt, nicht das Komma.
 
 ## Zeichenvorrat
 
