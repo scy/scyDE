@@ -40,6 +40,7 @@ scyDE bietet folgende zusätzliche Zeichen:
 * ã, ñ, õ, Ã, Ñ und Õ (über die tote Tilde)
 * das Zeichen ␣ als sichtbares Leerzeichen
 * ♯ und ♭
+* der unterbrochene senkrechte Balken (¦)
 
 Hier das Layout in grafischer Form:
 
@@ -59,7 +60,7 @@ Hier das Layout in grafischer Form:
 
 ## Status
 
-Das aktuelle Layout wird von mir **testweise** im täglichen Einsatz benutzt. Es ist möglich, dass sich die Position einzelner Zeichen noch einmal ändert, daher tragen Releases noch eine `0.x` als Versionsnummer. Insbesondere:
+Das aktuelle Layout wird von mir **testweise** im täglichen Einsatz benutzt. Es ist möglich, dass sich die Position einzelner Zeichen noch einmal ändert, daher tragen Releases noch eine `0.x` als Versionsnummer.
 
 ## Installation
 
