@@ -63,9 +63,15 @@ Das aktuelle Layout wird von mir **testweise** im täglichen Einsatz benutzt. Es
 * Nach nur einigen Stunden mit Experimenten habe ich den Eindruck, dass für die häufige Nutzung der Anführungszeichen und Chevrons ihre Position bei `yxcvb` vielleicht ungeeignet ist.
 * In der Windows‐Version von IntelliJ konflikten <kbd>Alt Gr</kbd>+<kbd>Shift</kbd> zusammen mit <kbd>C</kbd>, <kbd>V</kbd> und <kbd>T</kbd> mit nützlichen Shortcuts, weil offensichtlich kein Unterschied zwischen <kbd>Strg</kbd>+<kbd>Alt</kbd> und <kbd>Alt Gr</kbd> gemacht wird. Vielleicht möchte ich diese Positionen lieber frei lassen. <kbd>L</kbd> und <kbd>N</kbd> sind zwar auch belegt, aber mit weniger wichtigen Funktionen.
 
-## Build‐Prozess und Installation
+## Installation
 
-Momentan ist der Build-Prozess für Windows manuell, aber auch sehr simpel.
+Du findest ein ZIP‐File mit einem Installationsprogramm im [Releases‐Bereich bei GitHub](https://github.com/scy/scyDE/releases). Pack das File aus und starte die `setup.exe` darin.
+
+## Build‐Prozess
+
+Wenn du Binaries von Fremden nicht vertraust (gut so!), kannst du das Layout auch aus der Quelldatei selbst bauen. Momentan ist der Build-Prozess für Windows manuell, aber auch sehr simpel.
+
+**Wichtig:** Unbequemerweise lässt sich dieser Prozess nicht starten, wenn scyDE aktuell auf deinem Computer installiert ist. Du musst es also vorher über den in Windows üblichen Weg deinstallieren.
 
 - Installiere den [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/globalization/keyboardlayouts.aspx).
 - Öffne die Datei `src/scyDE.klc` aus diesem Repository mit ihm (über *File* → *Load Source File…*).
