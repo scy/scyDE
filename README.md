@@ -2,6 +2,14 @@
 
 **Note for English speakers:** This project provides an extended version of the normal German keyboard (as used in Germany), geared towards programmers and typophiles. As its intended audience is German, this document is currently provided in German only. If you think that’s a mistake, feel free to translate this document and submit a pull request.
 
+## Status
+
+Ich habe scyDE für einige Zeit im täglichen Einsatz verwendet und war zufrieden.
+Inzwischen bin ich jedoch, um ein möglichst einheitliches Tastaturlayout auf allen Geräten zu haben (insbesondere auch meinem Smartphone, das kein Selbstbau-Tastaturlayout ermöglicht), auf das US-Tastaturlayout umgestiegen und ergänze es auf Windows mit [WinCompose](http://wincompose.info/).
+**scyDE wird daher aktuell von mir nicht aktiv weiterentwickelt.**
+
+Wenn Interesse besteht, kann ich Pull Requests aufnehmen; alternativ kann auch gern jemand mich als Maintainer ablösen.
+
 ## Zielgruppe
 
 Dieses Projekt stellt ein erweitertes deutsches Tastaturlayout zur Verfügung und richtet sich vorrangig an Softwareentwickler*innen und Typophile, also Leute, denen korrekte Typographie in ihren maschinengeschriebenen Texten wichtig ist.
@@ -57,10 +65,6 @@ Hier das Layout in grafischer Form:
 * Die Zeichen auf <kbd>Z</kbd> und <kbd>M</kbd> sind auf der Grafik nicht so einfach zu unterscheiden. Auf <kbd>Z</kbd> liegen Halbgeviert- und (mit <kbd>Shift</kbd>) Geviertstrich, auf <kbd>M</kbd> wie üblich das µ für Mikro und (mit <kbd>Shift</kbd>) das Minuszeichen.
 * Die Akzente links von Backspace sind in der nicht-toten Variante (mit <kbd>Alt Gr</kbd>) vertauscht. Das ist Absicht: Der sonst nur in Kombination mit <kbd>Shift</kbd> erreichbare Gravis wird beim Programmieren weit häufiger benutzt als der Akut.
 * Die Grafik wurde mit `keyboard-layout-editor.com` erstellt, Informationen zur Anpassung findest du (auf Englisch) in [doc/chart.md](https://github.com/scy/scyDE/blob/master/doc/chart.md).
-
-## Status
-
-Das aktuelle Layout wird von mir **testweise** im täglichen Einsatz benutzt. Es ist möglich, dass sich die Position einzelner Zeichen noch einmal ändert, daher tragen Releases noch eine `0.x` als Versionsnummer.
 
 ## Installation
 
